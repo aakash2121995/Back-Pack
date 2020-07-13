@@ -1,2 +1,2 @@
 # Back-Pack
-A Deep learning module to replace or blur the background
+A Deep learning module to replace or blur the background from a video
